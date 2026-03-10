@@ -14,7 +14,7 @@ I am **Prakriti Poudel**, a Computer Engineering student at **IOE Pulchowk Campu
 
 🎨 I enjoy painting and plan to dive into digital art soon
 
-📫 How to reach me: **Prakritip900@gmail.com**
+📫 Reach me at: **Prakritip900@gmail.com**
 
 ---
 
