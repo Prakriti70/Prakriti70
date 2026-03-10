@@ -1,4 +1,7 @@
-## Hi there 👋
+
+
+<h1 align="center">Hi 👋, I'm Prakriti</h1>
+<h3 align="center">A passionate Computer Engineering student from Nepal</h3>
 
 <!--
 **Prakriti70/Prakriti70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
