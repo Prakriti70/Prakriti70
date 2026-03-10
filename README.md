@@ -28,7 +28,7 @@ I am **Prakriti Poudel**, a Computer Engineering student at **IOE Pulchowk Campu
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
 </a>
 <a href="https://medium.com/@prakritip900" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Medium_logo_Monogram.svg" alt="Medium" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/medium-47-461407.png" alt="Medium" width="40" height="40"/>
 </a>
 
   
