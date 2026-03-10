@@ -21,14 +21,19 @@ I am **Prakriti Poudel**, a Computer Engineering student at **IOE Pulchowk Campu
  
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakriti-poudel-4ba157337/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prakriti._.poudel/?hl=en)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@prakritip900)
+<a href="https://www.linkedin.com/in/prakriti-poudel-4ba157337/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+<a href="https://www.instagram.com/prakriti._.poudel/?hl=en" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+</a>
+<a href="https://medium.com/@prakritip900" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" alt="Medium" width="40" height="40"/>
+</a>
+
   
 
 ---
-
-## 🛠 Languages and Tools
 
 ## 🛠 Languages and Tools
 
