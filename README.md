@@ -3,12 +3,12 @@
 <h1 align="center">“Building quietly, learning constantly”</h1>
 
 
-## Hi 👋, I'm Prakriti  
+## Hi 👋, I'm Prakriti. 
 I am **Prakriti Poudel**, a Computer Engineering student at **IOE Pulchowk Campus, Nepal**.
 
 ---
 
-## 🌸 About Me
+##  About Me
 
 🌱 Currently learning OpenGL and graphics programming 
 
@@ -22,13 +22,13 @@ I am **Prakriti Poudel**, a Computer Engineering student at **IOE Pulchowk Campu
 ## 🔗 Connect With Me
 
 <a href="https://www.linkedin.com/in/prakriti-poudel-4ba157337/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
 </a>
 <a href="https://www.instagram.com/prakriti._.poudel/?hl=en" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30"/>
 </a>
 <a href="https://medium.com/@prakritip900" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/medium-47-461407.png" alt="Medium" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/medium-47-461407.png" alt="Medium" width="30" height="30"/>
 </a>
 
   
