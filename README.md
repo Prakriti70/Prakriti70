@@ -3,7 +3,7 @@
 <h1 align="center">“Building quietly, learning constantly”</h1>
 
 
-## Hi 👋, I'm Prakriti. 
+## Hi , I'm Prakriti. 
 I am **Prakriti Poudel**, a Computer Engineering student at **IOE Pulchowk Campus, Nepal**.
 
 ---
