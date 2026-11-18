@@ -10,7 +10,7 @@ I am **Prakriti Poudel**, a Computer Engineering student at **IOE Pulchowk Campu
 
 ##  About Me
 
-🌱 Currently learning OpenGL and graphics programming 
+🌱 Currently learning AI and exploring research.
 
 🎨 I enjoy painting and plan to dive into digital art soon
 
@@ -27,9 +27,7 @@ I am **Prakriti Poudel**, a Computer Engineering student at **IOE Pulchowk Campu
 <a href="https://www.instagram.com/prakriti._.poudel/?hl=en" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30"/>
 </a>
-<a href="https://medium.com/@prakritip900" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/medium-47-461407.png" alt="Medium" width="30" height="30"/>
-</a>
+
 
   
 
