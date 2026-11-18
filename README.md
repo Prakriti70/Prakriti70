@@ -10,11 +10,11 @@ I am **Prakriti Poudel**, a Computer Engineering student at **IOE Pulchowk Campu
 
 ##  About Me
 
-🌱 Currently learning AI and exploring research.
+- Currently learning AI and exploring research.
 
-🎨 I enjoy painting and plan to dive into digital art soon
+- I enjoy painting and plan to dive into digital art soon
 
-📫 Reach me at: **Prakritip900@gmail.com**
+- Reach me at: **Prakritip900@gmail.com**
 
 ---
 
